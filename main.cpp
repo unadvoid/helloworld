@@ -18,7 +18,7 @@ void sort(int* arry,int size)
 }
 int main()
 {
-   
+    // 徐听阑添加的注释
     // steven 添加的注释   
     int arry[] = {12,5,6,7,5,3,1};
 
