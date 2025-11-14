@@ -20,6 +20,8 @@ int main()
 {
     // 徐听阑添加的注释
     // steven 添加的注释   
+   
+    // steven 添加的新注释   
     int arry[] = {12,5,6,7,5,3,1};
 
     int size = sizeof(arry)/sizeof(arry[0]);
